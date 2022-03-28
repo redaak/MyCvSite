@@ -1,0 +1,11 @@
+body {
+  background-color: aliceblue;
+  font-family: "Roboto", sans-serif;
+}
+hr {
+  color: gray;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 10%;
+  height: 0;
+}
