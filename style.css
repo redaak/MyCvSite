@@ -12,3 +12,11 @@ hr {
 form{
     width:40%;
 }
+.headerCont{
+display: flex !important;
+}
+.photo{
+  display: inline-block;
+  align-items: center;
+  margin:auto;
+}
