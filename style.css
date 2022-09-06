@@ -8,3 +8,13 @@ body {
     letter-spacing: .01em;
     line-height: 1.6;
 }
+#link{
+  outline: none !important;
+  list-style: none !important;
+}
+.links:hover{
+  border-bottom: 1px solid #222;
+}
+.fa{
+  margin: 5px;
+}
